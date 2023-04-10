@@ -40,7 +40,7 @@ global.Api = new (require('./plugins/neoxrApi.js'))(process.env.API_KEY)
 global.owner = ['+919640440407',''] //owner number ++447441437150
 global.wame = ['+9640440407'] 
 global.pemilik = ['+919640440407'] //owner number ++447441437150
-global.premium = ['+918978754717'] //premium number ++447441437150
+global.premium = ['+919640440407'] //premium number ++447441437150
 global.pengguna = 'kawinraju' //username
 global.footer = 'mark-k INC'
 global.botnma = 'MARK-K INC' //bot name
@@ -49,7 +49,7 @@ global.ownernma = 'Kawinraju' //owner name
 global.packname = 'kawinraju' //sticker package name
 global.author = 'By kawin Memes' //sticker author name
 global.sessionName = 'session' //session name
-global.prefa = ['#','!','/',''] //prefix
+global.prefa = ['#','!','/','.'] //prefix
 global.sp = '🔵' //sp
 global.max_upload = 100
 global.dripstyping = true
@@ -79,13 +79,13 @@ global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tru
 global.mess = {
     success: 'Takaenda Done!',
     admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
+    botAdmin: '*mark_k bot  must be admin first!*',
     owner: '*this feature is only for zimbot owner*',
     group: '*Feature is only for groups!*',
     grouponly: '*Group Mode Only*',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature in only for the bot number',
-    wait: '*whoa wait a moment zim bot proccessing*',
+    wait: '*whoa wait a moment mark_k bot proccessing*',
     endLimit: '*Your daily limit has expired the limit will be reseted every 12 hours*',
     noPetualang: '*you are not in rpg database type #joinrpg* _ur name_'
 }
